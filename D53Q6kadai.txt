@@ -1,0 +1,26 @@
+【問題１】>java D53Q6 b F 8 F 8
+oooo
+o...
+oooo
+o...
+java D53Q6 g oooo o... oooo o...
+【問題2】>java D53Q6 b 6 9 F 9
+.oo.
+o..o
+oooo
+o..o
+g .oo. o..o oooo o..o
+【問題3】>java D53Q6 b 7 9 8 F
+.ooo
+o..o
+o...
+oooo
+
+g .ooo o..o o... oooo
+
+【問題4】>java D53Q6 b 3 5 9 1
+..oo
+.o.o
+o..o
+...o
+g ..oo .o.o o..o ...o
